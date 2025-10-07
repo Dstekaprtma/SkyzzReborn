@@ -139,21 +139,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid
 https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=18162&type=hls
 
   
-  
-  
-  
-  
---------NUSANTARA TV
-  
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://iili.io/Khkl6Xa.png" group-title="🟢TV NASIONAL", NUSANTARA TV
-#https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8  
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-
-  
 ------KOMPAS TV  
       
 #EXTINF:-1 tvg-id="KompasTv" tvg-name="KompasTv" group-title="🟢TV NASIONAL" tvg-logo="https://iili.io/KhklOqx.png", KOMPAS TV
@@ -179,8 +164,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 --------BTV
   
 #EXTINF:-1 group-title="🟢TV NASIONAL" tvg-id="beritasatu.id" tvg-logo="https://iili.io/Khkl7xs.png",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://attitude.my.id/scripts/hls.php/stream.m3u8?id=6165&=.m3u8  
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
   
   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -203,3 +187,48 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cbm.openwindows038.workers.dev/
 #EXTINF:-1 group-logo="https://iili.io/KhklGJS.png" tvg-logo="https://iili.io/KhklGJS.png" group-title="🟢TV NASIONAL",JOWO CHANNEL
 https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8  
+
+#EXTINF:-1 group-title="🟢TV NASIONAL" tvg-logo="https://iili.io/KhUDSUP.png",JTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
+https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/KhUDr5F.png" group-title="🟢TV NASIONAL", Magna Channel
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/KhgcW2j.png" group-title="🟢TV NASIONAL",Dunia Lain
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+
+#EXTINF:-1 group-title="🟢TV NASIONAL" tvg-logo="https://iili.io/KhgcGEu.png",Jurnal•TV
+https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/chunklist_w619472049.m3u8
+
+#EXTINF:-1 group-title="🟢TV NASIONAL" tvg-logo="https://iili.io/KhgcMrb.png",JITV Jogja
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+
+#EXTINF:-1 group-title="🟢TV NASIONAL" tvg-id="JAKTV TV.id" tvg-logo="https://iili.io/KhrAjN1.png",JAKTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=5415&type=hls
+
+#EXTINF:-1 group-title="🟢TV NASIONAL" tvg-id="DAAITV TV.id" tvg-logo="https://iili.io/KhrAVSV.png",DAAI TV
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=6482&type=hls
+
+#EXTINF:-1 group-title="🟢TV NASIONAL" tvg-id="Elshinta TVid" tvg-logo="https://iili.io/KhrAhAP.png",Elshinta TV
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=10975&type=hls
+
+#EXTINF:-1 group-title="🟢TV NASIONAL" tvg-id="Jawapos  TV.id" tvg-logo="https://iili.io/KhrAXHB.png",Jawapos TV
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=9714&type=hls
