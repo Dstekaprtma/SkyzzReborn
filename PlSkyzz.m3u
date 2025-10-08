@@ -1,0 +1,221 @@
+#EXTM3U
+  
+ -------------------------------
+  			NASIONAL
+ -------------------------------
+
+---TRANSMEDIA  
+  
+#EXTINF:-1 group-title="⚪ NASIONAL CHANNEL" tvg-logo="https://iili.io/Kjl0CWN.png",TRANS 7
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
+https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
+  
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=203388a3ab9b4e0b99552f6669c4eea9:e43bc84dc73ee0e78b533dec7cd7b715
+#EXTINF:-1 group-title="⚪ NASIONAL CHANNEL" tvg-logo="https://iili.io/Kjl0Bxp.png",TRANS TV
+https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
+  
+----MNC GROUP
+    
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="⚪ NASIONAL CHANNEL" tvg-logo="https://iili.io/Kjl0KOv.png", RCTI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" group-title="⚪ NASIONAL CHANNEL" tvg-logo="https://iili.io/Kjl0J0F.png", GTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+  
+#EXTINF:-1 group-title="⚪ NASIONAL CHANNEL" tvg-id="mnctv.id" tvg-logo="https://iili.io/KjllyiP.png",MNCTV 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd  
+ 
+#EXTINF:-1 group-title="⚪ NASIONAL CHANNEL" tvg-logo="https://iili.io/KjllpWB.png",iNEWS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|referer=https://www.visionplus.id/
+
+  
+  
+-----EMTEK GROUP
+  
+#EXTINF:-1 tvg-logo="https://iili.io/KjllmxV.png" group-title="⚪ NASIONAL CHANNEL" ,SINPO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=19046&type=hls
+
+
+  
+  
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="⚪ NASIONAL CHANNEL" tvg-logo="https://iili.io/KjllQHb.png",INDOSIAR
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/11
+   
+  
+  
+#EXTINF:-1 tvg-id="5" tvg-logo="https://iili.io/KjllsUu.png" group-title="⚪ NASIONAL CHANNEL",SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd 
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://iili.io/Kjll4i7.png" group-title="⚪ NASIONAL CHANNEL", MOJI 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd  
+  
+  
+-----MDTV   
+    
+
+#EXTINF:-1 group-title="⚪ NASIONAL CHANNEL" tvg-id="mdtv.id" tvg-logo="https://iili.io/Kjllgx2.png",MDTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd  
+  
+  
+-----METRO TV
+  
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="⚪ NASIONAL CHANNEL" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://iili.io/KjllOSs.png",METRO TV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+ 
+------TVRI 
+  
+#EXTINF:-1 tvg-id="19" tvg-logo="https://iili.io/KjllNln.png" group-title="⚪ NASIONAL CHANNEL",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8 
+  
+------RTV  
+  
+
+#EXTINF:-1 group-title="⚪ NASIONAL CHANNEL" tvg-id="rajawalitv.id" tvg-logo="https://iili.io/KjllwKX.png",RTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+  
+-----CNN CNBC  
+
+#EXTINF:-1 group-title="⚪ NASIONAL CHANNEL" tvg-id="cnnindonesia.id" tvg-logo="https://iili.io/KjllXVI.png",CNN Indonesia   
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="⚪ NASIONAL CHANNEL" tvg-id="cnbcindonesia.id" tvg-logo="https://iili.io/Kjll1HJ.png",CNBC Indonesia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a63988be1f634ef0bbf337e458543bc8:a1f4ca91edcbd49287c6d15b0d600843
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd  
+    
+  
+-------TVONE
+  
+#EXTINF:0 tvg-logo="https://iili.io/KjlllSa.png" group-title="⚪ NASIONAL CHANNEL",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+  
+
+-------BERITA SATU
+  
+#EXTINF:-1 tvg-id="18" tvg-logo="https://freeimage.host/i/KjllutV" group-title="⚪ NASIONAL CHANNEL",BERITA SATU
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8|referer=https://investor.id/&origin=https://investor.id&user-agent=Mozilla/5.0 (Windows
+  
+-------GARUDA TV  
+  
+  
+#EXTINF:0 tvg-logo="https://iili.io/KjllTwQ.png" group-title="⚪ NASIONAL CHANNEL",GARUDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=18162&type=hls
+
+  
+  
+  
+  
+  
+--------NUSANTARA TV
+  
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://iili.io/KjllIAx.png" group-title="⚪ NASIONAL CHANNEL", NUSANTARA TV
+#https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8  
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+
+  
+------KOMPAS TV  
+      
+#EXTINF:-1 tvg-id="KompasTv" tvg-name="KompasTv" group-title="⚪ NASIONAL CHANNEL" tvg-logo="https://iili.io/KjllCFe.png", KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8  
+  
+  
+-------ANTV
+  
+
+#EXTINF:-1 group-title="⚪ NASIONAL CHANNEL" tvg-id="antv.id" tvg-logo="https://iili.io/Kjl0nsI.png",ANTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+--------BTV
+  
+#EXTINF:-1 group-title="⚪ NASIONAL CHANNEL" tvg-id="beritasatu.id" tvg-logo="https://iili.io/KjlcDGt.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://attitude.my.id/scripts/hls.php/stream.m3u8?id=6165&=.m3u8  
+  
+  
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://qtvid.pw/vision/rctip.php?id=5
+#EXTINF:-1 tvg-logo="https://iili.io/Kjlcyas.png" group-title="⚪ NASIONAL CHANNEL",SINDONEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+  
+  
+#EXTINF:-1 tvg-logo="https://iili.io/Kjlcb6X.png" group-title="⚪ NASIONAL CHANNEL",Hanacaraka TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
+
+  
+  
+  
+  
+  
+  
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://cbm.openwindows038.workers.dev/
+#EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://iili.io/Kjlldu4.png" group-title="⚪ NASIONAL CHANNEL",JOWO CHANNEL
+https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8  
+  
